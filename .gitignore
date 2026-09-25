@@ -1,0 +1,9 @@
+# Playwright / artefatos de verificacao local
+.playwright-mcp/
+
+# Sistema operacional / editores
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
